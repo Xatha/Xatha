@@ -1,7 +1,13 @@
-### Hi there 👋
+##
+<h1 align="center">👋 Welcome to my page!</h1>
+<h3 align="center">I'm a passionate, self-taught programmer hailing from Denmark</h3>
+<hr>
 
-[![Xatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xatha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xatha&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I'm very passionate learning new concepts in and outside programming!
+- 🔥 Soft-spot for video-game modding. 
+- ⚡ I love backend development! 
+
+<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Xatha&disable_animations=true&count_private=true&show_icons=true&include_all_commits=true&&hide_border=true&hide_title=true&text_color=dddfe2&icon_color=402f65&title_color=402f65&bg_color=00000000&cache_seconds=20"> <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xatha&hide=jupyter%20notebook,tex&hide_border=true&hide_title=true&text_color=dddfe2&bg_color=00000000&langs_count=10&layout=compact&cache_seconds=20">
 
 
 <!--
